@@ -114,8 +114,14 @@ margin-left: 118px;
   margin-left: -365px;
 }
 
-.title-nietzsche{
-  margin-top: 327px;
+.title-nietzsche1{
+  margin-top: -180px;
+  margin-left:-899px;
+}
+
+.title-nietzsche2{
+  margin-top: 5px;
+  margin-left: -832px;
 }
 
 .container2{
@@ -127,11 +133,6 @@ margin-left: 118px;
   background: linear-gradient(89deg, #e41ec0, #8731dc, #490cd8);
 }
 
-
-
-
-
-
 .Nietzsche-image{
 width: 360px;
 border-radius: 50%;
@@ -142,11 +143,19 @@ box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
   opacity: 0.7 ;
 }
 
+.title-ernst{
+  margin-top: -180px;
+  margin-left:-899px;
+}
 .Junger-image{
   width: 360px;
   border-radius: 50%;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
   }
+
+.background-image-junger{
+  
+}
 
 .Junger-image:hover{
   opacity: 0.7 ;
