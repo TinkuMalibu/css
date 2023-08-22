@@ -34,3 +34,13 @@
   .Nietzsche-image:hover{
     opacity: 0.7 ;
   }
+
+  .Junger-image{
+    width: 360px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    }
+
+    .Junger-image:hover{
+      opacity: 0.7 ;
+    }
