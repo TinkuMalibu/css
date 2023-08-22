@@ -16,6 +16,15 @@
   background-color: rgb(198, 24, 221);
 }
 
+.container3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 50px;
+  background-color: rgb(24, 47, 221);
+}
+
 
 .text-container{
   width: 600px;
