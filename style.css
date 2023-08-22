@@ -2,6 +2,32 @@ body{
   background: linear-gradient(45deg, #ede27b, #f4c33a, #f16907);
 }
 
+h1{
+  font-family:'Josefin Sans', sans-serif;
+  font-size: 150px;
+  margin-bottom: -4px;
+  color:white;
+}
+
+p{
+  font-family:'Roboto', sans-serif;
+  font-size: 20px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.title-heidegger{
+  text-align: center;
+  margin-bottom: 6px;
+  margin-top: -903px;
+ }
+
+a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
 .container1{
   background-image: cover;
   display: flex;
@@ -36,8 +62,6 @@ body{
   font-size: 25px;
 }
 
-
-
 .text-container{
   width: 300px;
   display: flex;
@@ -61,28 +85,18 @@ body{
   width: 324px;
   font-family: 'M PLUS Rounded 1c', sans-serif;
   font-size: 25px;
-
 }
 
-
-h1{
-  font-family:'Josefin Sans', sans-serif;
-  font-size: 150px;
-  margin-bottom: -4px;
-  color:white;
+.text-container3{
+  margin-top: 312px;
+  width: 366px;
+  margin-left: 1104px;
 }
 
-p{
-  font-family:'Roboto', sans-serif;
-  font-size: 20px;
-  color: white;
-  text-transform: uppercase;
+.text-3{
+  font-family:'M PLUS Rounded 1c', sans-serif;
+  font-size: 25px;
 }
- .title-heidegger{
-  text-align: center;
-  margin-bottom: 6px;
-  margin-top: -903px;
- }
 
 .image-container{
 display: flex;
@@ -101,6 +115,13 @@ margin-left: 118px;
 .heidegger-image:hover{
   opacity: 0.7 ;
 }
+
+.crédito-heide{
+  margin-top: 750px;
+  width: 350px;
+  margin-left: -365px;
+}
+
 
 .title-nietzsche{
   margin-top: 327px;
