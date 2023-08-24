@@ -1,0 +1,13 @@
+.avatar-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: -7vh;
+  margin-left: -7.8vw;
+}
+
+.avatar-heidegger{
+  width: 15vw;
+  border-radius: 50%;
+}

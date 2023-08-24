@@ -1,22 +1,22 @@
 .banner-container{
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
-  
 }
 
 .banner{
+  background-size: cover;
   justify-content: center;
   align-items: center;
-  width: 75vw;
-  padding: 50px 0;
-
-
+  width: 70vw;
+  height: 90vh;
+  background-repeat: no-repeat;
 }
 
-.banner h1{
+.title-heidegger{
+  text-align: center;
   font-family: 'Josefin Sans', sans-serif;
   color: white;
   font-size: 3.5em;
