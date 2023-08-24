@@ -11,3 +11,7 @@
   width: 15vw;
   border-radius: 50%;
 }
+
+.avatar-heidegger:hover{
+  opacity: 0.7;
+}
