@@ -12,6 +12,7 @@
   width: 70vw;
   height: 90vh;
   background-repeat: no-repeat;
+  border-radius: 10px;
 }
 
 @media (max-width: 767px) {

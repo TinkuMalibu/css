@@ -4,3 +4,18 @@
   background: linear-gradient(89deg, #e41ec0, #8731dc, #490cd8);
   margin-top: -7vh;
 }
+
+.background-image-Nietzsche{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  width: 100%;
+  height: 100%;
+}
+
+.red-strange-img{
+  width: 50vw;
+  border-radius: 10px;
+
+}
