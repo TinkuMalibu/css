@@ -1,5 +1,4 @@
 .banner-container{
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -15,6 +14,12 @@
   background-repeat: no-repeat;
 }
 
+@media (max-width: 767px) {
+  .banner {
+    background-size:90vw;
+  }
+}
+
 .title-heidegger{
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
@@ -25,5 +30,38 @@
 @media screen and (max-width: 1360px){
   .title-heidegger{
     font-size: 2.5em;
+  }
+}
+
+p{
+  color: white;
+  font-family:'M PLUS Rounded 1c', sans-serif;
+
+
+}
+
+.text-1-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width:80vw;
+  height: 20vh;
+}
+
+.text-1{
+  width: 15vw;
+  font-size: 1.5em;
+}
+
+@media (max-width: 1360px) {
+  .text-1{
+    font-size: 1.1em;
+  }
+}
+
+@media (max-width: 767px) {
+  .text-1 {
+    font-size: 1.1em;
   }
 }
