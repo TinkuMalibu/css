@@ -7,11 +7,20 @@
   margin-left: -2.8vw;
 }
 
-.avatar-heidegger{
+.avatar-heidegger, .avatar-niet{
   width: 15vw;
   border-radius: 50%;
 }
 
-.avatar-heidegger:hover{
+.avatar-heidegger:hover, .avatar-niet:hover{
   opacity: 0.7;
+}
+
+.avatar-container-niet{
+  display: flex;
+  flex-direction: row;
+  justify-content:end;
+  align-items:end;
+  margin-top: -20vh;
+  margin-right:-2.8vw;
 }
