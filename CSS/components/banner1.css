@@ -9,8 +9,9 @@
   background-size: cover;
   justify-content: center;
   align-items: center;
-  width: 70vw;
-  height: 90vh;
+  width: 80vw;
+  height: 100vh;
+
   background-repeat: no-repeat;
   border-radius: 10px;
 }
@@ -37,28 +38,29 @@
 p{
   color: white;
   font-family:'Raleway', sans-serif;
-  line-height:35px;
+  /* line-height:35px; */
 
 }
 
 .text-1-container{
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  align-items: flex-end;
+  justify-content:start;
+  align-items:start;
   width:80vw;
   height: 30vh;
 }
 
 .text-1, .text-2{
-  width: 25vw;
-  font-size: 1.5em;
+  width: 14vw;
+  font-size: 0.3em;
   font-weight: bold;
+  margin-left: 15vw;
 }
 
 @media (max-width: 1360px) {
   .text-1, .text-2 {
-    font-size: 1.1em;
+    font-size: 0.3em;
   }
 }
 
