@@ -21,6 +21,11 @@
   flex-direction: row;
   justify-content:end;
   align-items:end;
-  margin-top: -20vh;
+  margin-top: -34vh;
   margin-right:-2.8vw;
+}
+
+.avatar-niet{
+  margin-top: -16vh;
+
 }
