@@ -40,3 +40,9 @@
     font-size: 5em;
   }
 }
+
+.container-text-title{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
