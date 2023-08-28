@@ -8,8 +8,8 @@
 .container-junger{
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: start;
+  align-items: start;
 }
 
 .title-junger{
@@ -17,5 +17,18 @@
   color: white;
   font-size: 6em;
   margin-left: 4vw;
-  margin-top: 4vh;
+  margin-top: 20vh;
+}
+
+.text-image-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.image-back-junger{
+  width: 40vw;
+  padding-top: 1px;
+  margin-left:-1vw;
 }
