@@ -7,25 +7,25 @@
   margin-left: -2.8vw;
 }
 
-.avatar-heidegger, .avatar-niet{
+.avatar-heidegger,
+.avatar-niet,
+.avatar-junger{
   width: 15vw;
   border-radius: 50%;
 }
 
-.avatar-heidegger:hover, .avatar-niet:hover{
+.avatar-heidegger:hover,
+.avatar-niet:hover,
+.avatar-junger:hover{
   opacity: 0.7;
-}
-
-.avatar-container-niet{
-  display: flex;
-  flex-direction: row;
-  justify-content:end;
-  align-items:end;
-  margin-top: -34vh;
-  margin-right:-2.8vw;
 }
 
 .avatar-niet{
   margin-top: -16vh;
 
+}
+
+.avatar-junger{
+  margin-left: 8vw;
+  margin-top: -6vh;
 }
