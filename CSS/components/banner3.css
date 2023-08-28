@@ -25,10 +25,11 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: start;
+  margin-top:-10vh;
 }
 
 .image-back-junger{
   width: 40vw;
-  padding-top: 1px;
   margin-left:-1vw;
+  margin-top:-11vh;
 }
