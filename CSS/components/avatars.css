@@ -28,13 +28,6 @@
 .avatar-junger{
   margin-left: 33vw;
   margin-top: -10vh;
-
-}.avatar-junger-container{
-  display: flex;
-  flex-direction: row;
-  justify-content: start;
   position: relative;
-  align-items: start;
-  margin-top: -18vh;
-
 }
+

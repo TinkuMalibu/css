@@ -14,10 +14,16 @@
 
 .title-junger{
   font-family: 'Josefin Sans', sans-serif;
-  color: white;
+  color: rgb(249, 244, 244);
   font-size: 6em;
   margin-left: 4vw;
-  margin-top: 20vh;
+  margin-top: 10vh;
+}
+
+@media screen and (max-width: 1360px){
+  .title-junger{
+    font-size: 4em;
+  }
 }
 
 .text-image-container{
@@ -30,6 +36,29 @@
 
 .image-back-junger{
   width: 40vw;
-  margin-left:-1vw;
-  margin-top:-13vh;
+  margin-left: -23vw;
+  margin-top: -1vh;
+}
+
+.text-junger{
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  margin-top: -85vh;
+  font-size: 1em;
+}
+
+.quote-junger{
+  font-size: 3em;
+  margin-left: 4vw;
+  width: 30vw;
+  text-align: center;
+}
+
+@media screen and (max-width: 1360px){
+  .quote-junger{
+    font-size: 2em;
+  }
 }
